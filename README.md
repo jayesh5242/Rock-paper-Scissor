@@ -46,5 +46,5 @@ Main functions used in logic:
 
 ---
 
-## Project Structure
+
 
